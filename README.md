@@ -33,3 +33,7 @@ Para fazer o deploy desse projeto, primeiro rode:
 ```
 ```bash
   npm run
+
+## Licença ©
+
+Este software está sob licença [MIT](https://github.com/nhn/tui.editor/blob/master/LICENSE) ©
