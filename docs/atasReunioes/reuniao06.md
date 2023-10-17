@@ -33,12 +33,12 @@ Decidimos também tentar implementar todas essas atividades antes da sprint acab
 O subgrupo responsável pelos raspadores alertaram mais uma vez as dificuldades encontradas e juntamente a isso, o integrante Felipe se disponibilizou a ajudá-los.
 
 
-|  Atividade | Participante(s) responsável(eis) |
-| - | - |
-| Criar a ata da reunião 16/10/2023 | Júlia e Maria Clara |
-| Trabalhar em raspadores | Ana Júlia, Cauã, Felipe | 
-| Atualização GitHub | Felipe, Júlia, Maria |
-| Implementação do protótipo de alta fidelidade | Felipe, Júlia, Maria |
+<p align="center">|  Atividade | Participante(s) responsável(eis) |
+<p align="center">| - | - |
+<p align="center">| Criar a ata da reunião 16/10/2023 | Júlia e Maria Clara |
+<p align="center">| Trabalhar em raspadores | Ana Júlia, Cauã, Felipe | 
+<p align="center">| Atualização GitHub | Felipe, Júlia, Maria |
+<p align="center">| Implementação do protótipo de alta fidelidade | Felipe, Júlia, Maria |
 
 <p align="center"> Tabela 1 - Atividades da Sprint 06 </p>
 
