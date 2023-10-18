@@ -50,7 +50,7 @@ Foi utilizado a logo que foi criada pelo integrante Felipe para a identidade vis
 
 ## 6.Fluxo de Navegação
 
-O protótipo de alta fidelidade segue o seguinte fluxo de navegação básico:
+O protótipo de alta fidelidade segue o seguinte fluxo de navegação básico :
 
 - Página Inicial: Os usuários começam na página inicial.
 - Página detalhe: Os usuários podem acessar a página detalhe após selecionar os filtros de município e data presentes na página inicial.
